@@ -1,0 +1,6 @@
+l1=list("raja")
+l2=list("pratik")
+l3=list("yewale")
+print(l1)
+print(l2)
+print(l3)
